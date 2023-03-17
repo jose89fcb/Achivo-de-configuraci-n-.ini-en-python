@@ -1,1 +1,1 @@
-# Achivo-de-configuraci-n-.ini-en-python
+Esto es un ejemplo para tus proyectos programados en python
